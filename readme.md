@@ -2,6 +2,7 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-brightgreen.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ![LibreCore](https://img.shields.io/badge/SealDice-LibreCore-blue)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsealdice%2Flibre-sealdice-core.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsealdice%2Flibre-sealdice-core?ref=badge_shield)
 
 [海豹核心](https://github.com/sealdice/sealdice-core) 的 AGPLv3 分叉，提供基于 LagrangeGo 的内置客户端支持。
 
@@ -151,3 +152,7 @@ dice/rollvm.go 是骰点指令虚拟机
 #### 2. 角色卡
 
 角色数据相关，包括存取机制和相关API，这部分代码将于1.5版本进行重制。
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsealdice%2Flibre-sealdice-core.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsealdice%2Flibre-sealdice-core?ref=badge_large)
